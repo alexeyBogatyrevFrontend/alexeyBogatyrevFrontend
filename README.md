@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm a Frontend Developer</h1>
 <h3 align="center">A passionate frontend developer from Almaty</h3>
-- 🌱 I’m currently learning **NextJs** 
+
+- 🌱 I’m currently learning **NextJs**
+
 - 👨‍💻 All of my projects are available at [https://github.com/alexeyBogatyrevFrontend?tab=repositories](https://github.com/alexeyBogatyrevFrontend?tab=repositories)
-- 📫 How to reach me **alexey.bogatyrev.frontend@gmail.com** 
+
+- 📫 How to reach me **alexey.bogatyrev.frontend@gmail.com**
+
 - 📄 Know about my experiences [https://hh.kz/applicant/resumes/view?resume=9d24690aff098b16180039ed1f617a4878767a](https://hh.kz/applicant/resumes/view?resume=9d24690aff098b16180039ed1f617a4878767a)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://instagram.com/bogaaatyrev" target="blank"
