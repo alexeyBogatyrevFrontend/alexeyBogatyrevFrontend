@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **alexey.bogatyrev.frontend@gmail.com**
 
-- 📄 Know about my experiences [https://hh.kz/applicant/resumes/view?resume=9d24690aff098b16180039ed1f617a4878767a](https://hh.kz/applicant/resumes/view?resume=9d24690aff098b16180039ed1f617a4878767a)
+- 📄 Know about my experiences [bogatyrev-resume.pdf](https://github.com/user-attachments/files/16650048/bogatyrev-resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
