@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Frontend Developer</h1>
 <h3 align="center">A passionate frontend developer from Almaty</h3>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/alexeyBogatyrevFrontend?tab=repositories](https://github.com/alexeyBogatyrevFrontend?tab=repositories)
 
 - 📫 How to reach me **alexey.bogatyrev.frontend@gmail.com**
@@ -12,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://instagram.com/bogaaatyrev" target="blank"
+	<a href="https://instagram.com/bgtryv" target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -20,7 +18,7 @@
 			height="30"
 			width="40"
 	/></a>
-  <a href="https://t.me/bogaaatyrev" target="blank"
+  <a href="https://t.me/bogatyrevfrontend" target="blank"
 		><img
 			align="center"
 			src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
